@@ -15,37 +15,37 @@ Finally: codigo que independientemente de si se ejecuto el codigo o si dio error
 
 En C# hay diversas excepciones que pueden suceder y ya estan definidas en el lenguaje como lo son:
 
--AccessViolationException: se genera cuando se intenta leer o escribir en la memoria protegida.
+- AccessViolationException: se genera cuando se intenta leer o escribir en la memoria protegida.
 
--AppDomainUnloadedException: se genera cuando se intenta acceder a un dominio de aplicación que aún no se ha cargado.
+- AppDomainUnloadedException: se genera cuando se intenta acceder a un dominio de aplicación que aún no se ha cargado.
 
--ApplicationException: se genera cuando ocurre un error de la aplicación que no es fatal.
+- ApplicationException: se genera cuando ocurre un error de la aplicación que no es fatal.
 
--ArgumentException: se genera cuando se pasa un argumento inválido a un método.
+- ArgumentException: se genera cuando se pasa un argumento inválido a un método.
 
--ArgumentNullException: se genera cuando se pasa un argumento nulo a un método que no lo admite.
+- ArgumentNullException: se genera cuando se pasa un argumento nulo a un método que no lo admite.
 
--ArgumentOutOfRangeException: se genera cuando se pasa un argumento que está fuera del rango esperado por un método.
+- ArgumentOutOfRangeException: se genera cuando se pasa un argumento que está fuera del rango esperado por un método.
 
--ArithmeticException: se genera cuando ocurre un error aritmético, como una división por cero o un desbordamiento.
+- ArithmeticException: se genera cuando ocurre un error aritmético, como una división por cero o un desbordamiento.
 
--DivideByZeroException: se genera cuando se intenta dividir un número por cero.
+- DivideByZeroException: se genera cuando se intenta dividir un número por cero.
 
--FormatException: se genera cuando se intenta convertir una cadena a un tipo que no tiene el formato adecuado.
+- FormatException: se genera cuando se intenta convertir una cadena a un tipo que no tiene el formato adecuado.
 
--IndexOutOfRangeException: se genera cuando se intenta acceder a un elemento de una matriz o una colección con un índice que está fuera de los límites.
+- IndexOutOfRangeException: se genera cuando se intenta acceder a un elemento de una matriz o una colección con un índice que está fuera de los límites.
 
--InvalidCastException: se genera cuando se intenta realizar una conversión inválida entre tipos.
+- InvalidCastException: se genera cuando se intenta realizar una conversión inválida entre tipos.
 
--InvalidOperationException: se genera cuando se intenta realizar una operación que no es válida en el estado actual del objeto.
+- InvalidOperationException: se genera cuando se intenta realizar una operación que no es válida en el estado actual del objeto.
 
--NullReferenceException: se genera cuando se intenta acceder a un miembro de un objeto nulo.
+- NullReferenceException: se genera cuando se intenta acceder a un miembro de un objeto nulo.
 
--OutOfMemoryException: se genera cuando no hay suficiente memoria para continuar la ejecución del programa.
+- OutOfMemoryException: se genera cuando no hay suficiente memoria para continuar la ejecución del programa.
 
--OverflowException: se genera cuando ocurre un desbordamiento aritmético o de conversión.
+- OverflowException: se genera cuando ocurre un desbordamiento aritmético o de conversión.
 
--StackOverflowException: se genera cuando hay demasiadas llamadas recursivas o anidadas en la pila.
+- StackOverflowException: se genera cuando hay demasiadas llamadas recursivas o anidadas en la pila.
 
 
 Y otras más...
