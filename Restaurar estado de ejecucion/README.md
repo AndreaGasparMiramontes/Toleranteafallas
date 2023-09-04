@@ -16,6 +16,8 @@ Pickle se puede usar para mantener el estado de un formulario en caso de que est
 En el codigo save.py podras encontrar un ejemplo muy simple de como esto puede funcionar, en primer lugar se revisa si ya existe un archivo ".pickle" si es que ya existe carga todos los datos y uno por uno se comprueba si estos tenian datos guardados o si estaban vacios, en caso de que ya tuvieran datos no se necesita guardar de nuevo la informacion asi que solo se imprime como si el mismo usuario hubiera guardado la informacion anteriormente
 
 P.D: para que te sea más facil ver el funcionamiento te recomiendo dar ENTER sin llenar unos campos, asi despues podras ver como te los pide pero los que hayas llenado no lo pedirá
+
+
 ![image](https://github.com/AndreaGasparMiramontes/Toleranteafallas/assets/142550697/66e0c05d-7ebb-4c44-ab29-2b796777e884)
 
 
