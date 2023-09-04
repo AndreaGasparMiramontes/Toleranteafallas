@@ -1,4 +1,4 @@
-![cerberus](https://github.com/AndreaGasparMiramontes/Toleranteafallas/assets/142550697/ce7694d4-2c7f-4448-9ac8-ce7bc1278f06)# Pickle para restaurar estado de un formulario
+# Pickle para restaurar estado de un formulario
 
 **Pickle** es un módulo de Python que permite serializar y deserializar objetos de Python, es decir, convertirlos en una secuencia de bytes y viceversa.
 
