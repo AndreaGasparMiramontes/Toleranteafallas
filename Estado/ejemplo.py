@@ -1,0 +1,1 @@
+##Aqui va a ir el ejemplo de como recuperar el estado de una aplicacion en python
