@@ -54,5 +54,5 @@ Una vez lo corras puedes intentar cerrar spotify tantas veces como quieras pero 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![](https://github.com/AndreaGasparMiramontes/Toleranteafallas/blob/main/Deamons_Servicios/gif_deamon.gif)
 
