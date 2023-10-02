@@ -21,7 +21,7 @@ Esto nos creara el ambiente y ahora lo único que tenemos que hacer es activarlo
 
 Nota: si se tiene un error similar al siguiente:
 
->imagen<
+![image](https://github.com/AndreaGasparMiramontes/Toleranteafallas/assets/142550697/ecd09e55-ecc3-457e-bd7d-2bfb7e3e07ef)
  
 Lo que debes hacer es correr el powershell como administrador, para hacer esto ejecuta el comando:
 
@@ -73,7 +73,8 @@ En el task lo que hago es esperar un numero random de segundos para simular los 
 
 Finalmente haciendo uso de looger guardamos el estado de la tarea, si es que termino correctamente o si es que fue cancelada por ser demasiado larga, esto se sabe que sucedio por el retorno que deberia dar de 1, si es que no existe es que fue cancelada
 
->Imagen<
+![image](https://github.com/AndreaGasparMiramontes/Toleranteafallas/assets/142550697/814b25f4-d00c-4da7-a818-3291baddf5ad)
+
 
 Después de varios intentos se puede ver como algunos si acaban con exito y otros son cancelados por la larga duración
 
