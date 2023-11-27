@@ -64,4 +64,30 @@ Ademas de que ya podemos ver la aplicacion dentro de nuestra aplicacion de docke
 
 ![image](https://github.com/AndreaGasparMiramontes/Toleranteafallas/assets/142550697/bf2a987f-aa73-4bd9-8484-be6e4a7eb342)
 
+## Comandos a aprender
 
+Ahora que ya sabemos como iniciar las imagenes y contenedores debemos aprender como actualizarlo y borrarlo
+
+Para empezar tenemos que actualizar un contenedor cada vez que hacemos cambios en el codigo fuente pues en el contenedor se sigue viendo como se veía antes de los cambios. No se puede actualizar directamente asi que lo que se tiene que hacer es cerrar el contendor y volverlo a abrir
+
+Para cerrar el contenedor se debe usar el comando:
+
+```bash
+	docker stop <id-contenedor>
+```
+
+En caso de que no sepas cual es el id del contendor este puedes verlo con el siguiente comando
+
+```bash
+	docker ps
+```
+
+Por ultimo para ahora si borrar el contenedor se utiliza
+
+```bash
+	docker rm <id-contenedor>
+```
+
+Ahora puedes volverlo a crear para ver los cambios que hiciste en el codigo
+
+Como informacion todo esto se puede hacer de igual forma en el docker desktop de una forma mucho más visual
