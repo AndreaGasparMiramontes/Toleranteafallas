@@ -59,3 +59,9 @@ Y una vez guardados los cambios vamos a construir la imagen mediante el siguient
 ```
 
 Se nos indicará un número largo que es el identificador del contenedor y ya podremos ir a la direccion que indicamos: 127.0.0.1:3000 para ver el funcionamiento de la aplicacion
+
+Ademas de que ya podemos ver la aplicacion dentro de nuestra aplicacion de dockers podremos ver que se creo el contenedor
+
+![image](https://github.com/AndreaGasparMiramontes/Toleranteafallas/assets/142550697/bf2a987f-aa73-4bd9-8484-be6e4a7eb342)
+
+
